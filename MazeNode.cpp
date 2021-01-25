@@ -1,11 +1,3 @@
-/**********************************************************************************************************************
-Title :       MazeNode.cpp
-Auhor :       Nigel Ferrer
-Description : implemenatation file of a quadruply-linked node class - intended 
-              to be used by Maze class 
-Dependencies: MazeNode.hpp
-**********************************************************************************************************************/
-
 #include "MazeNode.hpp"
 #include <sstream>
 
