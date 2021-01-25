@@ -1,10 +1,3 @@
-/**********************************************************************************************************************
-Title :       MazeNode.hpp
-Auhor :       Nigel Ferrer
-Description : header/interface file of a quadruply-linked node class - intended 
-              to be used by Maze class 
-**********************************************************************************************************************/
-
 #include <utility>
 #include <iostream>
 
