@@ -1,10 +1,3 @@
-/****************************************************************************************************************************
-Title :       MazeNode.hpp
-Auhor :       Nigel Ferrer
-Description : header/interface file of a linked-based maze
-Dependencies: MazeNode.hpp, MazeNode.cpp 
-****************************************************************************************************************************/
-
 #include "MazeNode.hpp"
 #include <vector>
 
